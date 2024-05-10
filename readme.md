@@ -1,4 +1,5 @@
 ---[ CC-RESTAURANT ]---
+
 A little program I wrote, which is an ordering system for a restaurant!
 
 # SETUP
