@@ -13,8 +13,7 @@ You will need: 2x Computers, 2x modems, ?x Monitors, 1x Printer, ?x modem cables
 5. Download the "Kiosk" folder, and unzip the contents to the root of the Kiosk PC (/startup, /lib/termLib)
 6. Add a printer underneath the Kiosk PC, and a modem on top
 7. Reboot the Kiosk PC
-8. Change the ID in the "orders" file of the Receiving PC to that of the Kiosk
-9. Change the ID in the "startup" file of the Kiosk PC to that of the Receiving PC.
+8. Change the ID in the "startup" file of the Kiosk PC to that of the Receiving PC
 
 ## USAGE
 
