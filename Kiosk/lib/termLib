@@ -1,3 +1,4 @@
+-- Licensed under the MIT license
 function cs()
  term.clear()
  term.setCursorPos(1,1)
