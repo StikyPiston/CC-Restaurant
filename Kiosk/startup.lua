@@ -1,3 +1,4 @@
+-- Licensed under the MIT license
 rednet.open("top")
 
 require("lib.termLib")
