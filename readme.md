@@ -4,7 +4,7 @@ A little program I wrote, which is an ordering system for a restaurant!
 
 # SETUP
 
-You will need: 2x Computers, 2x modems, ?x Monitors, 1x Printer, ?x modem cables
+You will need: 2x Computers, 2x wireless modems, ?x Monitors, 1x Printer, ?x modem cables, 2x wired modems
 
 1. Download the "Receiving" folder, and place the contained files into the root of a computer (/startup, /orders)
 2. Attatch a monitor to the computer, and a modem on the left
